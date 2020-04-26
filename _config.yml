@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Giulio Ghirardo"
-  avatar           : "profile43.png" #"profile.png"
+  avatar           : "profile.png"
   bio              : "R&D engineer"
   location         : "Baden, CH"
 # employer         : "Ansaldo Energia"
