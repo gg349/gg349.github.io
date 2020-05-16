@@ -1,9 +1,0 @@
-- add the different repos to gg349
-- prune better the whole thing
-- remove the sitemap at the bottom of the page
-- add a section software with links to the repos
-- update OrcID
-
-
-
-
