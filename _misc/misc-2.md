@@ -2,6 +2,7 @@
 title: "Index of smallest element in a list in Python?"
 excerpt: "Really easy right? But what's the fastest option?<br/><img src='/images/SOargmin.png'>"
 collection: misc
+author_profile: false
 ---
 
 Say that you have a list `values = [3,6,1,5]`, and need the index of the smallest element, i.e. `index_min = 2` in this case.

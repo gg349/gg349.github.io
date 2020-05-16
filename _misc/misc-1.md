@@ -2,6 +2,7 @@
 title: "Webapp for frame section design"
 excerpt: "useful for the design of a frame section in civil engineering <br/><img src='/images/frame_design_shot.png'>"
 collection: misc
+author_profile: false
 ---
 
 The webapp is deployed [here](http://section-design.herokuapp.com/), check it out.
