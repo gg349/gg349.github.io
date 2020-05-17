@@ -1,0 +1,14 @@
+---
+title: "2017 - The effect of the flame phase on thermoacoustic instabilities"
+collection: publications
+permalink: /publication/2017CombFlam
+excerpt: ""
+venue: "Combustion and Flame, 187 165-184"
+---
+{% include base_path %}
+
+[doi link](https://doi.org/10.1016/j.combustflame.2017.09.007)
+
+[Author's copy]({{ base_path }}/files/2017CombFlam.pdf)
+
+Abstract: This paper concerns the influence of the phase of the heat release response on thermoacoustic systems. We focus on one pair of degenerate azimuthal acoustic modes, with frequency $\omega$0 . The same results apply for an axial acoustic mode. We show how the value $\phi$0 and the slope −$\tau$ of the flame phase at the frequency $\omega$0 affects the boundary of stability, the frequency and amplitude of oscillation, and the phase $\phi$qp between heat release rate and acoustic pressure. This effect depends on $\phi$0 and on the nondimensional number $\tau$ $\omega$0 , which can be quickly calculated. We find for example that systems with large values of $\tau$ $\omega$0 are more prone to oscillate, i.e. they are more likely to have larger growth rates, and that at very large values of $\tau$ $\omega$0 the value $\phi$0 of the flame phase at $\omega$0 does not play a role in determining the system's stability. Moreover for a fixed flame gain, a flame whose phase changes rapidly with frequency is more likely to excite an acoustic mode. We propose ranges for typical values of nondimensional acoustic damping rates, frequency shifts and growth rates based on a literature review. We study the system in the nonlinear regime by applying the method of averaging and of multiple scales. We show how to account in the time domain for a varying frequency of oscillation as a function of amplitude, and validate these results with extensive numerical simulations for the parameters in the proposed ranges. We show that the frequency of oscillation $\omega$B and the flame phase $\phi$qp at the limit cycle match the respective values on the boundary of stability. We find good agreement between the model and thermoacoustic experiments, both in terms of the ratio $\omega$B / $\omega$0 and of the phase $\phi$qp , and provide an interpretation of the transition between different thermoacoustic states of an experiment. We discuss the effect of neglecting the component of heat release rate not in phase with the pressure p as assumed in previous studies. We show that this component should not be neglected when making a prediction of the system's stability and amplitudes, but we present some evidence that it may be neglected when identifying a system that is unstable and is already oscillating

@@ -102,6 +102,11 @@
     padding-right: $right-sidebar-width-wide;
   }
 
+  .archive__item-title {
+    // margin-top: 0.5em;
+    font-size: $type-size-5;
+  }
+
   .page__meta {
     margin: 0 0 4px;
   }
