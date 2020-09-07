@@ -1,6 +1,6 @@
 ---
-title: "Index of smallest element in a list in Python?"
-excerpt: "Really easy right? But what's the fastest option?<br/><img src='/images/SOargmin.png'>"
+title: "How to find the index of the smallest element in a list in Python"
+excerpt: "What's the fastest option?<br/><img src='/images/SOargmin.png'>"
 collection: misc
 author_profile: false
 ---
