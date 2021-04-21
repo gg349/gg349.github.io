@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I have a strong background in dynamical systems, system identification, linear and nonlinear modelling, and apply this in fluid dynamics, acoustics and thermoacoustics.
+Hi, this is my personal website, where you can find how to contact me and a few links to what I have been working on.
 
-I am interested in data analysis, modelling and identification, and currently do so for the gas turbine industry. I deal with various data sources and low-order models to design the gas turbines of tomorrow.
+I have been working with data modeling, reporting and visualization for over a decade, first in the energy business and now at Doodle. I have a strong background in timeseries, machine learning and dynamical systems and apply this to physical systems, business models and user behaviour models, with the goal of enabling quantitative decision making.

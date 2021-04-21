@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- 08/'16 - NOW.     Ansaldo Energia, Baden (CH). R&D Engineer
-- 05/'15 - 07/'16. Alstom/GE, Baden (CH). R&D Engineer
-- 10/'11 - 10/'15. Cambridge university (UK). PhD in engineering
+- 11/2020 - ongoing. Doodle, Zurich (CH). Senior Data Engineer
+- 08/2016 - 10/2020. Ansaldo Energia, Baden (CH). R&D Engineer
+- 05/2015 - 07/2016. Alstom/GE, Baden (CH). R&D Engineer
+- 10/2011 - 10/2015. Cambridge university (UK). PhD in engineering
