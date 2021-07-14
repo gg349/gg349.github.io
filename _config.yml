@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "gg349"
+title                    : "Giulio Ghirardo"
 title_separator          : "-"
 name                     : &name "Giulio Ghirardo"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Giulio Ghirardo"
   avatar           : "profile.png"
-  bio              : "R&D engineer"
-  location         : "Baden, CH"
+  bio              : "Senior Data engineer"
+  location         : "Zug, CH"
 # employer         : "Ansaldo Energia"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IYoxh1oAAAAJ"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "giulioghirardo"
-  orcid            : "http://orcid.org/0000-0001-5053-3946"
+  orcid            : #"http://orcid.org/0000-0001-5053-3946"
   pinterest        :
   soundcloud       :
   stackoverflow    : "1409938/gg349"
   steam            :
   tumblr           :
-  twitter          : "@GiulioGhirardo"
+  twitter          : #"@GiulioGhirardo"
   vine             :
   weibo            :
   xing             :
