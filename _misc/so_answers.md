@@ -1,6 +1,6 @@
 ---
 title: "A few interesting StackOverflow answers"
-excerpt: "floting point, broadcasting, convergence, eigenvectors, API interfaces.."
+excerpt: "floating point, broadcasting, convergence, eigenvectors, API interfaces.."
 collection: misc
 author_profile: false
 ---
