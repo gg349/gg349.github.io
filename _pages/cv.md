@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-- 01/2021 - ongoing. Doodle, Zurich (CH). Tech Lead, Data engineering
-- 11/2020 - 12/2021. Doodle, Zurich (CH). Senior Data Engineer
+- 10/2022 - ongoing. Datadog, Zug (CH) - full remote. Senior SWE in Data Science
+- 11/2020 - 10/2022. Doodle, Zurich (CH) - hybrid remote. Senior Data Engineer then Tech Lead
 - 08/2016 - 10/2020. Ansaldo Energia, Baden (CH). R&D Engineer
 - 05/2015 - 07/2016. Alstom/GE, Baden (CH). R&D Engineer
 - 10/2011 - 10/2015. Cambridge university (UK). PhD in engineering
